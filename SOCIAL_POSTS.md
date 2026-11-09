@@ -24,7 +24,7 @@ To solve this, we decoupled Flight Shopping from Flight Booking using an enterpr
 Result: Unlimited price scanning and automated group arrival planning without burning GDS search quotas.
 
 Architecture and runnable codebase:
-https://github.com/aamir1zahran/fli-enterprise-gateway
+https://github.com/Amz34/fli-enterprise-gateway
 
 #SoftwareEngineering #TravelTech #Architecture #APIDesign #Python #GDS
 ```
@@ -41,5 +41,5 @@ Our fix: Decouple shopping from booking.
 - Booking: Surgical B2B fulfillment at 1:1 L2B ratio
 
 Repo:
-github.com/aamir1zahran/fli-enterprise-gateway
+github.com/Amz34/fli-enterprise-gateway
 ```

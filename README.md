@@ -1,6 +1,6 @@
 # fli Enterprise Gateway & Flight Intelligence Pipeline
 
-[![Architecture: Zero-GDS-Overhead](https://img.shields.io/badge/Architecture-Zero--GDS--Overhead-blue.svg)](https://github.com/aamir1zahran/fli-enterprise-gateway)
+[![Architecture: Zero-GDS-Overhead](https://img.shields.io/badge/Architecture-Zero--GDS--Overhead-blue.svg)](https://github.com/Amz34/fli-enterprise-gateway)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Runtime: Python 3.12](https://img.shields.io/badge/Python-3.12-yellow.svg)](https://python.org)
 
