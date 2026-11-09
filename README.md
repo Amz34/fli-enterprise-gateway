@@ -86,3 +86,7 @@ python3 -m gateway.corporate_sync DAC 2027-01-11 2027-01-25 "JED,RUH,DMM" --curr
 
 ## 📄 License
 MIT License. Open source and ready for enterprise extension.
+
+---
+
+Part of [my always-on agent stack](https://github.com/Amz34) · [Awesome Agent Infrastructure](https://github.com/Amz34/awesome-agent-infrastructure) (135 live-checked building blocks).
