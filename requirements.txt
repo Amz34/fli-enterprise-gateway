@@ -1,0 +1,7 @@
+flights>=0.9.0
+fastapi>=0.115.0
+pydantic>=2.10.0
+curl-cffi>=0.7.4
+httpx>=0.28.0
+typer>=0.15.0
+click>=8.1.0
